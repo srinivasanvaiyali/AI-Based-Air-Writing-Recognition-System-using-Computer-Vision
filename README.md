@@ -26,6 +26,14 @@ Machine learning algorithms are then applied to interpret these patterns and con
 # System Architecture :
 The system architecture consists of several key components that work together to recognize air-written text. First, the input module captures real-time video using a camera. The preprocessing module then enhances the video frames by removing noise and detecting the hand region using computer vision techniques.
 
+
+# Output :
+<img width="525" height="343" alt="Screenshot 2026-03-31 224415" src="https://github.com/user-attachments/assets/18242c7e-f3d6-4410-826b-7c14bd1348db" />
+
+
+<img width="522" height="303" alt="Screenshot 2026-03-31 224439" src="https://github.com/user-attachments/assets/74855a39-3a9d-48c0-9b90-6d59fe59540f" />
+
+
 # Results and Impact :
 The system successfully recognizes hand gestures and converts air-written characters into digital text in real time with good accuracy. It demonstrates reliable performance under different lighting conditions and user movements, making it practical for real-world usage.
 
