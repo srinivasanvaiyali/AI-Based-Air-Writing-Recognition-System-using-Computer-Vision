@@ -33,7 +33,9 @@ This project has a significant impact by enabling touch-free interaction, improv
 
 # Articles published / References :
 S. Mitra and T. Acharya, “Gesture Recognition: A Survey”, IEEE Transactions on Systems, Man, and Cybernetics, 2007.
+
 R. Biswas and S. Basu, “Gesture Recognition Using Microsoft Kinect”, IEEE Conference, 2011.
 OpenCV Documentation, Computer Vision Library, https://opencv.org/
+
 D. Zhang et al., “Vision-Based Hand Gesture Recognition for Human-Computer Interaction”, International Journal of Computer Applications, 2012.
 
